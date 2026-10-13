@@ -58,23 +58,6 @@ GenerateClassCluster=0
 DocumentUniqueId=GNKXAMLB
 
 [Document2]
-DocumentPath=C:\Users\churkineldar\AppData\Local\Temp\History\IDC_AIO_ELOAD.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QXACOVDL
-
-[Document3]
 DocumentPath=IDC_AIO_ELOAD.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -91,7 +74,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QXACOVDL
 
-[Document4]
+[Document3]
 DocumentPath=\\Mac\Desktop\СПЭЛС\eic_lib\eic_lib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -108,7 +91,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RAFBZTPJ
 
-[Document5]
+[Document4]
 DocumentPath=\\Mac\Desktop\СПЭЛС\eic_lib\eic_lib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -125,7 +108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VDXNSGWA
 
-[Document6]
+[Document5]
 DocumentPath=\\Mac\Home\Downloads\aab_Active.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -142,7 +125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JWTKROEF
 
-[Document7]
+[Document6]
 DocumentPath=\\Mac\Home\Downloads\aab_Passive.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -159,7 +142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MCELYETM
 
-[Document8]
+[Document7]
 DocumentPath=\\Mac\Home\Downloads\Passive.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -176,7 +159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WNALLTTR
 
-[Document9]
+[Document8]
 DocumentPath=\\Mac\Home\Downloads\aab_Schlib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -193,7 +176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RIFTLMLT
 
-[Document10]
+[Document9]
 DocumentPath=\\Mac\Home\Downloads\Schlib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -210,7 +193,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FLDJOMGX
 
-[Document11]
+[Document10]
 DocumentPath=\\Mac\Home\Downloads\VPL.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
